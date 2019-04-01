@@ -1,0 +1,19 @@
+/**
+  Router on a stick setup using Linux server 64bit, 32bit server will not work.
+
+  What we're going to accomplish with this setup are:
+  * Ability to have Web Servers on a distributed network
+  * Create Database servers on a distributed network
+  * Setup a Media Server for live broadcast
+  * Setup a Mail Server
+  * Setup a Window 8/10 on the network
+  * Setup File Servers Master & Slave
+  * Setup Phone Server
+  * Setup Dev Server
+  * Hardening security
+  * and more.
+
+  Imagine if you could carry all of the above in a flash drive? Let's say you could plug your flash into any computer boot and have access to virtual
+  resources that was created by you, e.g Windows 8/10, Web Servers, Mail Servers and other VPS.
+
+*/
